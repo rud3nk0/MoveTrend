@@ -1,0 +1,295 @@
+<?php $val = array (
+  'css' => '.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-1 .mega-menu-content{width:700px;position:absolute;left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-311 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-311 .mega-menu.main-menu-item-2 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-311 .main-menu-item-2.multi-level .dropdown-menu{left:100%}.main-menu-311 .mega-menu.main-menu-item-3 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-311 .main-menu-item-3.multi-level .dropdown-menu{left:100%}.main-menu-311 .mega-menu.main-menu-item-4 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-311 .main-menu-item-4.multi-level .dropdown-menu{left:100%}.route-common-home body:not(.is-sticky) .main-menu-311 .main-menu-item-5.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-5 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-5>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-311 > .j-menu li.main-menu-item-5.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.route-common-home body:not(.is-sticky) .main-menu-311 .main-menu-item-6.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-6 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-6>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-311 > .j-menu li.main-menu-item-6.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.route-common-home body:not(.is-sticky) .main-menu-311 .main-menu-item-7.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-7 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-311 .mega-custom.main-menu-item-7>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-311 > .j-menu li.main-menu-item-7.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu-2',
+    'module_id' => 311,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-311',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'About',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '4',
+          'href' => 'http://movetrend/index.php?route=information/information&amp;information_id=4',
+          'name' => 'About Us',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          2 => 
+          array (
+            'title' => 'Delivery Info',
+            'link' => 
+            array (
+              'type' => 'information',
+              'id' => '6',
+              'href' => 'http://movetrend/index.php?route=information/information&amp;information_id=6',
+              'name' => 'Delivery Information',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'type' => 'multilevel',
+            'position' => 'left',
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'main-menu-item-2',
+              'dropdown' => false,
+              'icon-only' => NULL,
+              'menu-fullwidth' => false,
+              'mega-fullwidth' => false,
+              'mega-custom' => false,
+              'drop-menu' => true,
+            ),
+            'items' => 
+            array (
+            ),
+            'isOpen' => false,
+          ),
+          3 => 
+          array (
+            'title' => 'Terms & Conditions',
+            'link' => 
+            array (
+              'type' => 'information',
+              'id' => '5',
+              'href' => 'http://movetrend/index.php?route=information/information&amp;information_id=5',
+              'name' => 'Terms &amp; Conditions',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'type' => 'multilevel',
+            'position' => 'left',
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'main-menu-item-3',
+              'dropdown' => false,
+              'icon-only' => NULL,
+              'menu-fullwidth' => false,
+              'mega-fullwidth' => false,
+              'mega-custom' => false,
+              'drop-menu' => true,
+            ),
+            'items' => 
+            array (
+            ),
+            'isOpen' => false,
+          ),
+          4 => 
+          array (
+            'title' => 'Privacy Policy',
+            'link' => 
+            array (
+              'type' => 'information',
+              'id' => '3',
+              'href' => 'http://movetrend/index.php?route=information/information&amp;information_id=3',
+              'name' => 'Privacy Policy',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'type' => 'multilevel',
+            'position' => 'left',
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'main-menu-item-4',
+              'dropdown' => false,
+              'icon-only' => NULL,
+              'menu-fullwidth' => false,
+              'mega-fullwidth' => false,
+              'mega-custom' => false,
+              'drop-menu' => true,
+            ),
+            'items' => 
+            array (
+            ),
+            'isOpen' => false,
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      5 => 
+      array (
+        'title' => 'FAQ',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '7',
+          'href' => 'http://movetrend/index.php?route=information/information&amp;information_id=7',
+          'name' => 'Frequently Asked Questions',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-5',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      6 => 
+      array (
+        'title' => 'Contact',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '59',
+          'href' => 'http://movetrend/index.php?route=information/contact',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-6',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      7 => 
+      array (
+        'title' => 'Blog',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '59',
+          'href' => 'http://movetrend/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-7',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

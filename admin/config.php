@@ -1,18 +1,18 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://e-comerce-sneackers/admin/');
-define('HTTP_CATALOG', 'http://e-comerce-sneackers/');
+define('HTTP_SERVER', 'http://MoveTrend/admin/');
+define('HTTP_CATALOG', 'http://MoveTrend/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://e-comerce-sneackers/admin/');
-define('HTTPS_CATALOG', 'http://e-comerce-sneackers/');
+define('HTTPS_SERVER', 'http://MoveTrend/admin/');
+define('HTTPS_CATALOG', 'http://MoveTrend/');
 
 // DIR
-define('DIR_APPLICATION', 'C:/OSPanel/domains/E-Comerce-Sneackers/admin/');
-define('DIR_SYSTEM', 'C:/OSPanel/domains/E-Comerce-Sneackers/system/');
-define('DIR_IMAGE', 'C:/OSPanel/domains/E-Comerce-Sneackers/image/');
+define('DIR_APPLICATION', 'C:/OSPanel/domains/MoveTrend/admin/');
+define('DIR_SYSTEM', 'C:/OSPanel/domains/MoveTrend/system/');
+define('DIR_IMAGE', 'C:/OSPanel/domains/MoveTrend/image/');
 define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
-define('DIR_CATALOG', 'C:/OSPanel/domains/E-Comerce-Sneackers/catalog/');
+define('DIR_CATALOG', 'C:/OSPanel/domains/MoveTrend/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');

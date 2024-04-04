@@ -1,14 +1,14 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://e-comerce-sneackers/');
+define('HTTP_SERVER', 'http://movetrend/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://e-comerce-sneackers/');
+define('HTTPS_SERVER', 'http://movetrend/');
 
 // DIR
-define('DIR_APPLICATION', 'C:/OSPanel/domains/E-Comerce-Sneackers/catalog/');
-define('DIR_SYSTEM', 'C:/OSPanel/domains/E-Comerce-Sneackers/system/');
-define('DIR_IMAGE', 'C:/OSPanel/domains/E-Comerce-Sneackers/image/');
+define('DIR_APPLICATION', 'C:/OSPanel/domains/MoveTrend/catalog/');
+define('DIR_SYSTEM', 'C:/OSPanel/domains/MoveTrend/system/');
+define('DIR_IMAGE', 'C:/OSPanel/domains/MoveTrend/image/');
 define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');

@@ -63,11 +63,7 @@
       ),
     ),
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'popup-660f50d747d88',
-=======
-    'id' => 'popup-661078de256ce',
->>>>>>> Stashed changes
     'module_id' => 195,
     'classes' => 
     array (

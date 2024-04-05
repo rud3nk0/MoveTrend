@@ -72,11 +72,7 @@ img{border-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.mod
     'carousel' => false,
     'viewMoreText' => 'View More',
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'catalog-660f50d75f61b',
-=======
-    'id' => 'catalog-661078de3f216',
->>>>>>> Stashed changes
     'module_id' => 326,
     'classes' => 
     array (

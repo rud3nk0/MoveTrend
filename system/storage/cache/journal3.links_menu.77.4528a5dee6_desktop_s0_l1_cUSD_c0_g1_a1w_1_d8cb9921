@@ -26,11 +26,7 @@ a{justify-content:center}}',
     ),
     'title' => '',
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'links-menu-660f50d781ecd',
-=======
-    'id' => 'links-menu-661078de6281b',
->>>>>>> Stashed changes
     'module_id' => 77,
     'classes' => 
     array (

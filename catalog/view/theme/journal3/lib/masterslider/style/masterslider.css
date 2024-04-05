@@ -776,3 +776,20 @@
 	transition: ease-in-out .3s !important;
 	background: #333 !important;
 }
+
+.module-master_slider-327 .ms-bullets .ms-bullet {
+	background: #33333352 !important;
+}
+
+.module-master_slider-327 .ms-bullets .ms-bullet-selected {
+	background: #ffffff !important;
+}
+
+.module-master_slider-327 .ms-bullet {
+	width: 50px !important;
+	height: 2px !important;
+}
+
+.module-master_slider-327 .module-item-1 .module-subitem-5.ms-caption {
+	color: #fff !important;
+}

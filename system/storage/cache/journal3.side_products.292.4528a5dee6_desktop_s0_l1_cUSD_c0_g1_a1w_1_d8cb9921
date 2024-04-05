@@ -111,11 +111,7 @@ a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Montse
     'moduleSideProductCompareTooltipStatus' => true,
     'moduleSideProductCompareTooltipPosition' => 'top',
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'side_products-660f50d7732e3',
-=======
-    'id' => 'side_products-661078de5284e',
->>>>>>> Stashed changes
     'module_id' => 292,
     'classes' => 
     array (
@@ -288,89 +284,6 @@ a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Montse
             'rating' => 0.0,
             'href' => 'http://movetrend/index.php?route=product/product&amp;product_id=424',
           ),
-<<<<<<< Updated upstream
-=======
-          425 => 
-          array (
-            'classes' => 
-            array (
-              'swiper-slide' => true,
-              'isotope-item' => false,
-              0 => '',
-            ),
-            'quantity' => '5',
-            'stock_status' => '2-3 Days',
-            'thumb2x' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/accessories/Jordan%20Metal%20Logo/photo_2024-04-01_22-38-45-120x120h.jpg',
-            'second_thumb' => false,
-            'second_thumb2x' => false,
-            'labels' => 
-            array (
-              29 => 
-              array (
-                'type' => 'custom',
-                'label' => 'New',
-                'display' => 'default',
-              ),
-            ),
-            'extra_buttons' => 
-            array (
-              46 => 
-              array (
-                'type' => 'custom',
-                'label' => 'Buy Now',
-                'action' => 'quickbuy',
-                'link' => 
-                array (
-                  'type' => 'popup',
-                  'id' => '22',
-                  'href' => 'javascript:open_popup(22)',
-                  'name' => '',
-                  'total' => NULL,
-                  'attrs' => 
-                  array (
-                  ),
-                  'classes' => 
-                  array (
-                  ),
-                ),
-              ),
-              93 => 
-              array (
-                'type' => 'custom',
-                'label' => 'Ask Question',
-                'action' => 'link',
-                'link' => 
-                array (
-                  'type' => 'popup',
-                  'id' => '22',
-                  'href' => 'javascript:open_popup(22)',
-                  'name' => '',
-                  'total' => NULL,
-                  'attrs' => 
-                  array (
-                  ),
-                  'classes' => 
-                  array (
-                  ),
-                ),
-              ),
-            ),
-            'date_end' => NULL,
-            'price_value' => true,
-            'stat1' => NULL,
-            'stat2' => NULL,
-            'product_id' => '425',
-            'thumb' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/accessories/Jordan%20Metal%20Logo/photo_2024-04-01_22-38-45-60x60h.jpg',
-            'name' => 'Jordan Bag Metal Logo',
-            'description' => 'Who wouldn\'t know the most famous basketball player of all time, Michael Jordan. Even though his career ended in 2003, the brand is still alive and becoming more and more popular. Almost 30 years ago, he joined forces with Nike, dozens of models in thousands of color variants were released under his..',
-            'price' => '$39.00',
-            'special' => false,
-            'tax' => '$39.00',
-            'minimum' => '1',
-            'rating' => 0.0,
-            'href' => 'http://movetrend/index.php?route=product/product&amp;product_id=425',
-          ),
->>>>>>> Stashed changes
         ),
         'items' => 
         array (

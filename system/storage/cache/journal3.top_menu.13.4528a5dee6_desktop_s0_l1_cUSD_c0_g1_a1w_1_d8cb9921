@@ -12,11 +12,7 @@
       'between' => true,
     ),
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'top-menu-660f50d76bec9',
-=======
-    'id' => 'top-menu-661078de4b9db',
->>>>>>> Stashed changes
     'module_id' => 13,
     'classes' => 
     array (

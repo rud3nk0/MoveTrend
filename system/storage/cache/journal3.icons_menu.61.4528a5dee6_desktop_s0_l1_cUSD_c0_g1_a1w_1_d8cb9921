@@ -35,11 +35,7 @@ ul{justify-content:flex-start}.icons-menu-61 .module-title{text-align:left}.icon
       'resize' => 'fill',
     ),
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'icons-menu-660f50d74bf19',
-=======
-    'id' => 'icons-menu-661078de2a770',
->>>>>>> Stashed changes
     'module_id' => 61,
     'classes' => 
     array (

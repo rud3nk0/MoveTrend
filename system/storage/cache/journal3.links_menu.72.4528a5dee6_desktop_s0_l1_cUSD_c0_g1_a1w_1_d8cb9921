@@ -26,11 +26,7 @@ a{justify-content:flex-start;width:100%}div.links-menu-72 .count-badge{display:n
     ),
     'title' => 'Custom Links',
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'links-menu-660f50d777690',
-=======
-    'id' => 'links-menu-661078de56c87',
->>>>>>> Stashed changes
     'module_id' => 72,
     'classes' => 
     array (

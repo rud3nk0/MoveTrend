@@ -26,11 +26,7 @@ a{width:auto}div.links-menu-76 .count-badge{display:none}.phone footer  div.link
     ),
     'title' => 'My Account',
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'links-menu-660f50d77af1d',
-=======
-    'id' => 'links-menu-661078de5a5a6',
->>>>>>> Stashed changes
     'module_id' => 76,
     'classes' => 
     array (

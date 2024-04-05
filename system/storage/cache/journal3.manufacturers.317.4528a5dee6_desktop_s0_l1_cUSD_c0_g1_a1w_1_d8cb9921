@@ -78,11 +78,7 @@ a{padding:10px}.module-manufacturers-317 .manufacturer-layout.swiper-slide{margi
       'resize' => 'fit',
     ),
     'status' => true,
-<<<<<<< Updated upstream
     'id' => 'manufacturers-660f50d744eed',
-=======
-    'id' => 'manufacturers-661078de2176a',
->>>>>>> Stashed changes
     'module_id' => 317,
     'classes' => 
     array (

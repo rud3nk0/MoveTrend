@@ -46,7 +46,7 @@ a{color:rgba(139, 145, 152, 1)}.module-newsletter-67 .checkbox label a:hover{col
     'agree' => '3',
     'captcha' => false,
     'status' => true,
-    'id' => 'newsletter-660f3cb06def7',
+    'id' => 'newsletter-660f47f8a017a',
     'module_id' => 67,
     'classes' => 
     array (

@@ -26,7 +26,7 @@ a{width:auto}div.links-menu-76 .count-badge{display:none}.phone footer  div.link
     ),
     'title' => 'My Account',
     'status' => true,
-    'id' => 'links-menu-660f3cb069590',
+    'id' => 'links-menu-660f47f89bbf0',
     'module_id' => 76,
     'classes' => 
     array (

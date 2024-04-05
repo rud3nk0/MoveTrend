@@ -93,7 +93,7 @@ a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Montse
       'resize' => 'fill',
     ),
     'status' => true,
-    'id' => 'categories-660f3cb0227a0',
+    'id' => 'categories-660f47f8599b8',
     'module_id' => 313,
     'classes' => 
     array (

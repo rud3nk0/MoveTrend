@@ -23,7 +23,7 @@ ul{justify-content:center}.icons-menu-273 .module-title{text-align:center}.icons
       'resize' => 'fill',
     ),
     'status' => true,
-    'id' => 'icons-menu-660f3cb071f40',
+    'id' => 'icons-menu-660f47f8a3f87',
     'module_id' => 273,
     'classes' => 
     array (

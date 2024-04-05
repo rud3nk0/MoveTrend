@@ -74,7 +74,7 @@ span{font-size:13px;margin:5px}}.module-banners-322 .module-item-1>a::after{cont
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'banners-660f3cb01a47c',
+    'id' => 'banners-660f47f851ff5',
     'module_id' => 322,
     'classes' => 
     array (

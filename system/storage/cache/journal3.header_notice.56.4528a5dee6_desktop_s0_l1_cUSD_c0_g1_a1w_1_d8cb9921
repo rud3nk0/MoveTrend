@@ -32,7 +32,7 @@ a{text-decoration:underline}.module-header_notice-56 .hn-content a:hover{color:r
     'closeText' => '',
     'content' => '<strong>20% OFF</strong> on all products <a href="#">Shop now</a>',
     'status' => false,
-    'id' => 'header_notice-660f3cb03f643',
+    'id' => 'header_notice-660f47f8738f5',
     'module_id' => 56,
     'classes' => 
     array (

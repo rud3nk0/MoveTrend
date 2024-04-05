@@ -111,7 +111,7 @@ a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Montse
     'moduleSideProductCompareTooltipStatus' => true,
     'moduleSideProductCompareTooltipPosition' => 'top',
     'status' => true,
-    'id' => 'side_products-660f3cb0629b0',
+    'id' => 'side_products-660f47f895598',
     'module_id' => 292,
     'classes' => 
     array (

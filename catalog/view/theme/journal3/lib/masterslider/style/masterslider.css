@@ -767,5 +767,12 @@
 }
 
 .module-master_slider-327 .module-item-1 .module-subitem-5.btn {
-	margin-left: 400px !important;
+	/* margin-left: 400px !important; */
+
+}
+
+.module-subitem-5.btn:hover,
+.module-subitem-4.btn:hover {
+	transition: ease-in-out .3s !important;
+	background: #333 !important;
 }

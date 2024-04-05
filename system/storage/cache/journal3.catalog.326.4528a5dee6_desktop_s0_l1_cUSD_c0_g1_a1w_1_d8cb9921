@@ -72,7 +72,7 @@ img{border-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.mod
     'carousel' => false,
     'viewMoreText' => 'View More',
     'status' => true,
-    'id' => 'catalog-660f47f883802',
+    'id' => 'catalog-660f4c07e6eaa',
     'module_id' => 326,
     'classes' => 
     array (

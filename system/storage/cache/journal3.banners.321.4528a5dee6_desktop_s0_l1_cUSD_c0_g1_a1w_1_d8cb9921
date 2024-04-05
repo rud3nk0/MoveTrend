@@ -74,7 +74,11 @@ span{font-size:13px;margin:5px;padding:5px}}.module-banners-321 .module-item-1>a
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'banners-660f4c07b6027',
+<<<<<<< Updated upstream
+    'id' => 'banners-660f50d7302f6',
+=======
+    'id' => 'banners-661078de08760',
+>>>>>>> Stashed changes
     'module_id' => 321,
     'classes' => 
     array (
@@ -101,9 +105,15 @@ span{font-size:13px;margin:5px;padding:5px}}.module-banners-321 .module-item-1>a
         'link' => 
         array (
           'type' => 'category',
+<<<<<<< Updated upstream
           'id' => '189',
           'href' => '',
           'name' => '',
+=======
+          'id' => '226',
+          'href' => 'http://movetrend/index.php?route=product/category&amp;path=226',
+          'name' => 'Bag',
+>>>>>>> Stashed changes
           'total' => NULL,
           'attrs' => 
           array (

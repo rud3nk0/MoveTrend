@@ -93,7 +93,11 @@ a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Montse
       'resize' => 'fill',
     ),
     'status' => true,
-    'id' => 'categories-660f4c07bb639',
+<<<<<<< Updated upstream
+    'id' => 'categories-660f50d735cee',
+=======
+    'id' => 'categories-661078de0f704',
+>>>>>>> Stashed changes
     'module_id' => 313,
     'classes' => 
     array (

@@ -23,7 +23,11 @@ ul{justify-content:center}.icons-menu-273 .module-title{text-align:center}.icons
       'resize' => 'fill',
     ),
     'status' => true,
-    'id' => 'icons-menu-660f4c0817e9b',
+<<<<<<< Updated upstream
+    'id' => 'icons-menu-660f50d783a63',
+=======
+    'id' => 'icons-menu-661078de6466a',
+>>>>>>> Stashed changes
     'module_id' => 273,
     'classes' => 
     array (

@@ -74,7 +74,11 @@ span{font-size:13px;margin:5px}}.module-banners-132 .module-item-1>a::after{font
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'banners-660f4c07b05f1',
+<<<<<<< Updated upstream
+    'id' => 'banners-660f50d72b1b8',
+=======
+    'id' => 'banners-661078de0243a',
+>>>>>>> Stashed changes
     'module_id' => 132,
     'classes' => 
     array (

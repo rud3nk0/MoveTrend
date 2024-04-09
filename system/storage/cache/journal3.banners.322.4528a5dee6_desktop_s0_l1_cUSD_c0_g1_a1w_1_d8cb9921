@@ -68,13 +68,13 @@ span{font-size:13px;margin:5px}}.module-banners-322 .module-item-1>a::after{cont
     ),
     'imageDimensions' => 
     array (
-      'width' => 240,
-      'height' => 500,
+      'width' => 413,
+      'height' => 554,
       'resize' => 'fill',
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'banners-6615a8caae713',
+    'id' => 'banners-6615b3f3bad7a',
     'module_id' => 322,
     'classes' => 
     array (
@@ -119,8 +119,8 @@ span{font-size:13px;margin:5px}}.module-banners-322 .module-item-1>a::after{cont
           1 => 'module-item-1',
           'swiper-slide' => false,
         ),
-        'image' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/outfit/nike/photo_2024-04-01_22-24-57-240x500h.jpg',
-        'image2x' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/outfit/nike/photo_2024-04-01_22-24-57-480x1000h.jpg',
+        'image' => 'http://movetrend/image/cache/catalog/MoveTrend/banner/Rectangle%209-413x554h.png',
+        'image2x' => 'http://movetrend/image/cache/catalog/MoveTrend/banner/Rectangle%209-826x1108h.png',
         'text' => NULL,
         'items' => 
         array (

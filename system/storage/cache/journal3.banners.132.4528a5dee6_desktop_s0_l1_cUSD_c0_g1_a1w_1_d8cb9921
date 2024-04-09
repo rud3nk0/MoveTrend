@@ -69,12 +69,12 @@ span{font-size:13px;margin:5px}}.module-banners-132 .module-item-1>a::after{font
     'imageDimensions' => 
     array (
       'width' => 500,
-      'height' => 500,
+      'height' => 494,
       'resize' => 'fill',
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'banners-6615a8ca9e4dc',
+    'id' => 'banners-6615b3f3b8022',
     'module_id' => 132,
     'classes' => 
     array (
@@ -119,8 +119,8 @@ span{font-size:13px;margin:5px}}.module-banners-132 .module-item-1>a::after{font
           1 => 'module-item-1',
           'swiper-slide' => false,
         ),
-        'image' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/Nike%20Air%20Max%2090%20Terrascape/photo_1_2024-04-03_01-59-21-500x500w.jpg',
-        'image2x' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/Nike%20Air%20Max%2090%20Terrascape/photo_1_2024-04-03_01-59-21-1000x1000w.jpg',
+        'image' => 'http://movetrend/image/cache/catalog/MoveTrend/banner/Rectangle%208-500x494w.png',
+        'image2x' => 'http://movetrend/image/cache/catalog/MoveTrend/banner/Rectangle%208-1000x988w.png',
         'text' => NULL,
         'items' => 
         array (

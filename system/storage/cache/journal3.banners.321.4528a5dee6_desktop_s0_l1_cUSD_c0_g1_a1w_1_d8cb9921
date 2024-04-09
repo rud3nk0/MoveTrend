@@ -68,13 +68,13 @@ span{font-size:13px;margin:5px;padding:5px}}.module-banners-321 .module-item-1>a
     ),
     'imageDimensions' => 
     array (
-      'width' => 500,
-      'height' => 240,
+      'width' => 305,
+      'height' => 410,
       'resize' => 'fill',
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'banners-6615a8cab1616',
+    'id' => 'banners-6615b3f3bd11c',
     'module_id' => 321,
     'classes' => 
     array (
@@ -119,8 +119,8 @@ span{font-size:13px;margin:5px;padding:5px}}.module-banners-321 .module-item-1>a
           1 => 'module-item-1',
           'swiper-slide' => false,
         ),
-        'image' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/accessories/Stone%20Island/photo_2024-04-01_22-37-53-500x240w.jpg',
-        'image2x' => 'http://movetrend/image/cache/catalog/MoveTrend/Product/accessories/Stone%20Island/photo_2024-04-01_22-37-53-1000x480w.jpg',
+        'image' => 'http://movetrend/image/cache/catalog/MoveTrend/banner/Rectangle%2010-305x410w.png',
+        'image2x' => 'http://movetrend/image/cache/catalog/MoveTrend/banner/Rectangle%2010-610x820w.png',
         'text' => NULL,
         'items' => 
         array (

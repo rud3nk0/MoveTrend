@@ -11964,10 +11964,20 @@
         ),
         'valueSearchInputFont' => 
         array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'textShadowColor' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueSearchViewMoreText' => 
         array (
           'lang_1' => 'View More',
+          'lang_2' => 'View More',
+          'lang_3' => 'View More',
         ),
         'valueSearchAutoSuggestDescription' => 'true',
         'valueSearchCategoriesSelectorDropdownWidth' => '',
@@ -11980,9 +11990,17 @@
         ),
         'valueSearchCategoriesBorder' => 
         array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueSearchAutoSuggestBG' => 
         array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
@@ -11998,7 +12016,10 @@
         'valueSearchAutoSuggestHeight' => '',
         'valueSearchCategoriesSelectorFont' => 
         array (
-          'color' => '__VAR__Text Lighter',
+          'color' => 
+          array (
+            'color' => '__VAR__Text Lighter',
+          ),
         ),
         'valueSearchAutoSuggestWidth_multi' => 
         array (
@@ -12006,6 +12027,10 @@
         'valueSearchIconBorderActive' => '',
         'valueSearchBorder' => 
         array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueSearchCategoriesSelectorDropdown' => '__VAR__Top Menu Dropdown',
         'valueSearchIconBGHover' => 
@@ -12025,7 +12050,7 @@
           'border-radius' => '40',
           'borderRadiusUnit' => 'px',
         ),
-        'valueSearchCategoriesSelectorStatus' => 'true',
+        'valueSearchCategoriesSelectorStatus' => 'false',
         'valueSearchInputBGHover' => 
         array (
           'backgroundSizeUnit' => 'px',
@@ -12047,15 +12072,24 @@
         'valueSearchAutoSuggestViewMoreStatus' => 'true',
         'valueSearchAutoSuggestBorder' => 
         array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueSearchAutoSuggestPriceOldFont' => 
         array (
           'color' => '__VAR__GRAY',
         ),
-        'valueSearchPlaceholderColor' => '__VAR__Gray',
+        'valueSearchPlaceholderColor' => 
+        array (
+          'color' => '__VAR__Gray',
+        ),
         'valueSearchNoResultsText' => 
         array (
           'lang_1' => 'No results found.',
+          'lang_2' => 'No results found.',
+          'lang_3' => 'No results found.',
         ),
         'valueSearchAutoSuggestWidth' => '',
         'valueSearchIconHover' => '__VAR__COLOR_2',
@@ -12065,7 +12099,9 @@
           'font-size' => '__VAR__DEFAULT_2',
         ),
         'valueSearchCategoriesTriangleMargin' => '-10',
-        'valueSearchBorderActive' => '',
+        'valueSearchBorderActive' => 
+        array (
+        ),
         'valueSearchCategoriesSelectorDropdownHeight' => '',
         'valueSearchAutoSuggestViewMoreIconHover' => '',
         'valueAutoSuggestPadding' => 
@@ -12073,7 +12109,10 @@
         ),
         'valueSearchCategoriesSelectorIcon' => 
         array (
-          'color' => '__VAR__Text Lighter',
+          'color' => 
+          array (
+            'color' => '__VAR__Text Lighter',
+          ),
           'margin' => 
           array (
             'margin' => '',
@@ -12089,7 +12128,19 @@
             'name' => 'caret-down',
           ),
         ),
-        'valueSearchAutoSuggestStatus' => 'true',
+        'valueSearchAutoSuggestStatus' => 
+        array (
+          'status' => 'true',
+          'device' => 
+          array (
+            0 => 'phone',
+            1 => 'tablet',
+            2 => 'desktop',
+          ),
+          'admin' => 'false',
+          'customer_group_1' => 'true',
+          'store_0' => 'true',
+        ),
         'valueSearchCategoriesTriangleStatus' => '',
         'valueSearchCategoriesSelectorIconHover' => '__VAR__COLOR_2',
         'valueSearchCategoriesType' => 'top',
@@ -12152,16 +12203,23 @@
         'valueSearchCategories' => 
         array (
           'lang_1' => 'All',
+          'lang_2' => 'All',
+          'lang_3' => 'All',
         ),
         'valueSearchInputBG' => 
         array (
-          'background-color' => '__VAR__Background Shade',
+          'background-color' => 
+          array (
+            'color' => '__VAR__Background Shade',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
         ),
         'valueSearchAutoSuggestTriangleStatus' => 'true',
-        'valueSearchBorderHover' => '',
+        'valueSearchBorderHover' => 
+        array (
+        ),
         'valueSearchAutoSuggestViewMoreFontHover' => 
         array (
         ),
@@ -12189,7 +12247,10 @@
         'valueSearchAutoSuggestNameStatus' => 'true',
         'valueSearchCategoriesSelectorBG' => 
         array (
-          'background-color' => '__VAR__Accent',
+          'background-color' => 
+          array (
+            'color' => '__VAR__Accent',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
@@ -12202,6 +12263,8 @@
         'valueSearchPlaceholder' => 
         array (
           'lang_1' => 'Search here...',
+          'lang_2' => 'Search...',
+          'lang_3' => 'Search...',
         ),
         'valueSearchAutoSuggestViewMorePadding' => 
         array (
@@ -12235,6 +12298,10 @@
         ),
         'valueSearchAutoSuggestDivider' => 
         array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueSearchAutoSuggestPriceOldBGHover' => 
         array (

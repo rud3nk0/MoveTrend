@@ -26,7 +26,7 @@ a{justify-content:center}}',
     ),
     'title' => '',
     'status' => true,
-    'id' => 'links-menu-660f50d781ecd',
+    'id' => 'links-menu-6615a8cbb1aa3',
     'module_id' => 77,
     'classes' => 
     array (
@@ -37,7 +37,7 @@ a{justify-content:center}}',
     array (
       1 => 
       array (
-        'title' => 'Copyright © 2019, Your Store, All Rights Reserved',
+        'title' => 'Copyright © 2024, MoveTrend, All Rights Reserved',
         'link' => 
         array (
           'type' => '',
@@ -52,6 +52,7 @@ a{justify-content:center}}',
           array (
           ),
         ),
+        'label' => '',
         'classes' => 
         array (
           0 => 'menu-item',

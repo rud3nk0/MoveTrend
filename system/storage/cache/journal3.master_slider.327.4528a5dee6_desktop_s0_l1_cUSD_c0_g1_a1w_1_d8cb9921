@@ -89,7 +89,7 @@ span{transform:scale(calc(100 / 100));transform-origin:center}.module-master_sli
     ),
     'lazyLoad' => false,
     'status' => true,
-    'id' => 'master_slider-660f50d7173dd',
+    'id' => 'master_slider-6615a8ca3c04f',
     'module_id' => 327,
     'classes' => 
     array (

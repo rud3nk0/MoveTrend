@@ -8724,7 +8724,7 @@
             ),
           ),
         ),
-        'valueImageOpacity' => '0.5',
+        'valueImageOpacity' => '1',
         'valueNameContainerBorderRadius' => 
         array (
           'borderRadiusUnit' => 'px',
@@ -8732,16 +8732,22 @@
         'valueScaleHover' => 'true',
         'valueImageBackgroundHover' => 
         array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
         ),
-        'valueNameContainerShadow' => '__VAR__Upward',
+        'valueNameContainerShadow' => '__VAR__DEFAULT',
         'valueNameDisplay' => 'hover',
         'valueNameContainerSize' => 
         array (
         ),
-        'valueImageBorderHover' => '',
+        'valueImageBorderHover' => 
+        array (
+        ),
         'valueImagePadding' => 
         array (
           'padding' => '20',
@@ -8762,7 +8768,10 @@
         ),
         'valueNameFont' => 
         array (
-          'color' => '__VAR__Text Lighter',
+          'color' => 
+          array (
+            'color' => '',
+          ),
           'text-align' => 'center',
           'font-weight' => '700',
           'font-size' => '__VAR__XS',
@@ -8785,10 +8794,17 @@
         ),
         'valueNameContainerBorder' => 
         array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueNameFontHover' => 
         array (
-          'color' => '__VAR__Text Light',
+          'color' => 
+          array (
+            'color' => '__VAR__Text Light',
+          ),
         ),
         'valueShadow' => 
         array (
@@ -8805,7 +8821,10 @@
         ),
         'valueNameContainerBackground' => 
         array (
-          'background-color' => '__VAR__Gray',
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
@@ -8813,18 +8832,24 @@
         'valueNameContainerFont' => 
         array (
         ),
-        'valueGrayscale' => 'hover',
+        'valueGrayscale' => 'none',
         'valueImageBorder' => 
         array (
           'border-width' => '1',
-          'border-style' => 'solid',
-          'border-color' => '__VAR__Border',
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueNameContainerOffset' => 
         array (
         ),
         'valueImageBackground' => 
         array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
@@ -8843,9 +8868,17 @@
         'valueNameContainerDisplay' => '',
         'valueBorder' => 
         array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
         ),
         'valueBackgroundHover' => 
         array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
@@ -8853,11 +8886,204 @@
         'valueNameOverflow' => 'true',
         'valueBackground' => 
         array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
           'backgroundSizeUnit' => 'px',
           'none' => 'false',
           'backgroundPositionUnit' => 'px',
         ),
-        'valueBorderHover' => '',
+        'valueBorderHover' => 
+        array (
+        ),
+      ),
+      '__VAR__BRANDS_TL1QIQ' => 
+      array (
+        'valueImageScale' => 'false',
+        'valueImageOpacity' => '',
+        'valueNameContainerBorderRadius' => 
+        array (
+          'borderRadiusUnit' => 'px',
+        ),
+        'valueNameContainerShadow' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueNameDisplay' => 'none',
+        'valueNameContainerSize' => 
+        array (
+        ),
+        'valueImageBorderHover' => 
+        array (
+        ),
+        'valueImagePadding' => 
+        array (
+        ),
+        'valueImageBorderRadius' => 
+        array (
+          'borderRadiusUnit' => 'px',
+        ),
+        'valueImageShadow' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueShadowHover' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueNameFont' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'text-align' => 'center',
+          'textShadowColor' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueNameContainerPadding' => 
+        array (
+        ),
+        'valueItemPadding' => 
+        array (
+        ),
+        'valueBorderRadius' => 
+        array (
+          'borderRadiusUnit' => 'px',
+        ),
+        'valueNameContainerBorder' => 
+        array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueNameFontHover' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'textShadowColor' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueShadow' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueImageShadowHover' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueNameContainerMargin' => 
+        array (
+        ),
+        'valueNameContainerBackground' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueNameContainerFont' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'textShadowColor' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueGrayscale' => '',
+        'valueImageBorder' => 
+        array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueNameContainerOffset' => 
+        array (
+        ),
+        'valueImageBackground' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueImageOpacityHover' => '',
+        'valueImageVisibility' => 'true',
+        'valueNameContainerDisplay' => '',
+        'valueBorder' => 
+        array (
+          'border-color' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueBackgroundHover' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueNameOverflow' => 'false',
+        'valueBackground' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueBorderHover' => 
+        array (
+        ),
       ),
     ),
     'countdown' => 

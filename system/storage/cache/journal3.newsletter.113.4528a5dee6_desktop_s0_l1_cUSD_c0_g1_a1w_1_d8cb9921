@@ -34,7 +34,7 @@ label{font-size:13px}.module-newsletter-113 .checkbox label a:hover{color:rgba(2
     'agree' => '3',
     'captcha' => false,
     'status' => true,
-    'id' => 'newsletter-6615b3f3ce6c3',
+    'id' => 'newsletter-661cec4e5d110',
     'module_id' => 113,
     'classes' => 
     array (

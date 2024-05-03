@@ -5813,7 +5813,7 @@
           'border-style' => 'solid',
           'border-color' => 
           array (
-            'color' => '__VAR__Dark',
+            'color' => '__VAR__Background',
           ),
         ),
         'valueFontActiveColor' => 
@@ -5821,6 +5821,7 @@
         ),
         'valueBorderHover' => 
         array (
+          'color' => '__VAR__Transparent',
         ),
       ),
     ),

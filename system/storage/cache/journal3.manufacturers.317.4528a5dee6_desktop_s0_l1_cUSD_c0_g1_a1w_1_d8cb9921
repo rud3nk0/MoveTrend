@@ -78,7 +78,7 @@ a{padding:10px}.module-manufacturers-317 .manufacturer-layout.swiper-slide{margi
       'resize' => 'fit',
     ),
     'status' => true,
-    'id' => 'manufacturers-6634f5ef3b57a',
+    'id' => 'manufacturers-6634fa076df1c',
     'module_id' => 317,
     'classes' => 
     array (

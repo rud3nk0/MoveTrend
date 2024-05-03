@@ -5661,6 +5661,168 @@
           'color' => '__VAR__Text',
         ),
       ),
+      '__VAR__BUTTON_GZ2UVJ' => 
+      array (
+        'valueFont' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'textShadowColor' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valuePadding' => 
+        array (
+        ),
+        'valueBGFocus' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueBorderActive' => 
+        array (
+        ),
+        'valueBGHover' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueShadowFocus' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueShadowHover' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueFontFocusColor' => 
+        array (
+        ),
+        'valueButtonLoadingSpeed' => '',
+        'valueBorderRadius' => 
+        array (
+          'borderRadiusUnit' => 'px',
+        ),
+        'valueShadow' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueSize' => 
+        array (
+        ),
+        'valueButtonLoadingIcon' => 
+        array (
+          'size' => '20',
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'margin' => 
+          array (
+            'margin' => '',
+            'margin-top' => '',
+            'margin-right' => '',
+            'margin-bottom' => '',
+            'margin-left' => '',
+          ),
+          'none' => 'false',
+          'icon' => 
+          array (
+            'code' => '',
+            'name' => '',
+          ),
+        ),
+        'valueButtonLoadingType' => '',
+        'valueMaxSize' => 
+        array (
+        ),
+        'valueBG' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '__VAR__Transparent',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueShadowActive' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'inner' => 'false',
+          'none' => 'false',
+        ),
+        'valueBorderFocus' => 
+        array (
+        ),
+        'valueBGActive' => 
+        array (
+          'background-color' => 
+          array (
+            'color' => '',
+          ),
+          'backgroundSizeUnit' => 'px',
+          'none' => 'false',
+          'backgroundPositionUnit' => 'px',
+        ),
+        'valueFontHover' => 
+        array (
+          'color' => 
+          array (
+            'color' => '',
+          ),
+          'textShadowColor' => 
+          array (
+            'color' => '',
+          ),
+        ),
+        'valueBorder' => 
+        array (
+          'border-width' => '1',
+          'border-style' => 'solid',
+          'border-color' => 
+          array (
+            'color' => '__VAR__Dark',
+          ),
+        ),
+        'valueFontActiveColor' => 
+        array (
+        ),
+        'valueBorderHover' => 
+        array (
+        ),
+      ),
     ),
     'pagination' => 
     array (

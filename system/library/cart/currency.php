@@ -46,6 +46,11 @@ class Currency {
 
 		$string .= number_format($amount, (int)$decimal_place, $this->language->get('decimal_point'), $this->language->get('thousand_point'));
 
+		// decimal hack
+        $zero = str_repeat('0', (int)$decimal_place);
+        $string = str_replace($this->language->get('decimal_point').$zero, '', $string);
+		// decimal hack
+
 		if ($symbol_right) {
 			$string .= $symbol_right;
 		}

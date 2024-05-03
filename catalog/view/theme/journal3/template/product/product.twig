@@ -269,6 +269,7 @@
           {% if price and not j3.document.isPopup('options') %}
           <div class="product-price-group">
            <div class="price-wrapper">
+           
              <div class="price-group">
                {% if not special %}
                  <div class="product-price">{{ price }}</div>
@@ -277,9 +278,10 @@
                  <div class="product-price-old">{{ price }}</div>
                {% endif %}
              </div>
-             {% if tax %}
+
+             {# {% if tax %}
                <div class="product-tax">{{ text_tax }} {{ tax }}</div>
-             {% endif %}
+             {% endif %} #}
              {% if points %}
                <div class="product-points">{{ text_points }} {{ points }}</div>
              {% endif %}

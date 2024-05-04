@@ -1,0 +1,66 @@
+{% if products %}
+	<div class="heading"><span>{% if (title_link) %}{{ '<a href ="'~title_link~'">'~heading_title~'</a>' }}{% else %}{{ heading_title }}{% endif %} </span></div>
+	<div class="uni-module product-{% set module_id = random() %}{{module_id}}">
+		<div class="uni-module-wrapper">
+			{% for product in products %}
+				<div class="product-thumb">
+					<div class="image">
+						<a href="{{product.href}}">
+							<img src="{{product.thumb}}" alt="{{product.name}}" title="{{product.name}}" class="img-responsive" />
+						</a>
+					</div>
+					<div class="caption">
+						{% if (show_title == '1') %} 
+							<a href="{{product.href}}">{{product.name}}</a>
+						{% endif %} 
+						{% if (show_desc == '1') %} 
+							<p class="description">{{product.description}}</p>
+						{% endif %} 
+						{% if show_rate == '1' %} 
+						{% if product.rating >= 0 %}
+							<div class="rating">
+								{% for i in 1..5 %}
+									<i class="{{product.rating < i ? 'far' : 'fa'}} fa-star"></i>
+								{% endfor %} 
+								{% if product.num_reviews > 0 %}<sup><a onclick="location='{{product.href}}#tab-review'">{{product.num_reviews}}</a></sup>{% endif %}
+							</div>
+						{% endif %}
+						{% endif %}
+						{% if (show_price == '1') %} 
+						{% if product.price %}
+							<p class="price" data-price="{{product.price_value}}" data-special="{{product.special_value}}" data-discount="{{product.discounts}}">
+								{% if product.special %}
+									<span class="price-old">{{ product.price }}</span> <span class="price-new">{{ product.special }}</span> 
+								{% else %}
+									{{ product.price }}
+								{% endif %}
+								{% if product.tax %}<span class="price-tax">{{text_tax}} {{product.tax}}</span>{% endif %}
+							</p>
+						{% endif %}
+						{% endif %}
+					</div>
+					{% if (butCount > 0) %}
+					<div class="cart">
+						{% if (show_cart == '1') %} 
+							<button type="button" class="add_to_cart btn {{product.product_id}}" title="{{ button_cart }}" onclick="cart.add({{product.product_id}}, this)"><i class="fa fa-shopping-basket"></i><span class="hidden-sm hidden-md">{{ button_cart }}</span></button>
+						{% endif %}
+						{% if (show_wish == '1') %} 
+							<button type="button" class="wishlist btn" data-toggle="tooltip" title="{{button_wishlist}}" onclick="wishlist.add('{{product.product_id}}');"><i class="fa fa-heart"></i></button>
+						{% endif %} 
+						{% if (show_compare == '1') %} 
+							<button type="button" class="compare btn" data-toggle="tooltip" title="{{button_compare}}" onclick="compare.add('{{product.product_id}}');"><i class="fas fa-align-right"></i></button>
+						{% endif %}
+					</div>
+					{% endif %}
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+	<script>
+		$('.product-{{module_id}}').uniModules({
+			type:'carousel',
+			autoheight:['caption > a', 'description', 'option'],
+			loop:{{products|length > 5 ? 'true' : 'false'}}
+		});
+	</script>
+{% endif %}

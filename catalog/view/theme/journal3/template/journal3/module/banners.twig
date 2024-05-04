@@ -10,7 +10,7 @@
           <img src="{{ item.image }}" {% if item.image2x %}srcset="{{ item.image }} 1x, {{ item.image2x }} 2x" {% endif %} alt="{{ item.alt }}" width="{{ context.imageDimensions.width }}" height="{{ context.imageDimensions.height }}"/>
         {% endif %}
         {% if item.title %}
-        <div class="banner-text banner-caption"><span>{{ item.title }}</span></div>
+        <div class="banner-text banner-caption someBanner"><span>{{ item.title }}</span></div>
         {% endif %}
         {% if item.title2 %}
         <div class="banner-text banner-caption-2"><span>{{ item.title2 }}</span></div>

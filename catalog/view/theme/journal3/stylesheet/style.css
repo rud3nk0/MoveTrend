@@ -5402,18 +5402,28 @@ https://www.journal-theme.com/
   left: 0;
   right: 0;
   color: white;
+ 
   line-height: 1.3;
   z-index: 3;
   -webkit-transition: all 0.12s ease-out;
-  transition: all 0.12s ease-out; }
+  transition: all 0.12s ease-out; 
+}
   .module-banners .banner-text span {
     position: relative;
     display: block;
     -webkit-transition: all 0.12s ease-out;
-    transition: all 0.12s ease-out; }
+    transition: all 0.12s ease-out; 
+  }
 
 .module-banners .banner-caption-3 span {
-  display: block; }
+  display: block; 
+}
+
+.someBanner span{
+    padding: 50px 34px;
+    font-size: 48px;
+    font-weight: 800;
+}
 
 /******************************
 

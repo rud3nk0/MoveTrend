@@ -2759,7 +2759,13 @@ https://www.journal-theme.com/
     max-width: 100%; }
     .product-thumb .name a {
       display: block;
-      text-align: center; }
+      /* text-align: center;  */
+      color: #000!important;
+      font-size: 16px;
+    }
+    .castom_style__price{
+      font-size: 16px!important;    
+    }
   .product-thumb .stepper {
     height: auto; }
   .product-thumb .description {

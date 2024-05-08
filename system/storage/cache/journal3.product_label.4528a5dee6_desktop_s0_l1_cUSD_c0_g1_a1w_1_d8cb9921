@@ -153,6 +153,10 @@ b{background:rgba(105, 105, 115, 1)}.product-info .product-label-diagonal.produc
   ),
   'custom' => 
   array (
+    433 => 
+    array (
+      29 => 29,
+    ),
     432 => 
     array (
       29 => 29,

@@ -26,7 +26,7 @@ a{justify-content:flex-start;width:100%}div.links-menu-72 .count-badge{display:n
     ),
     'title' => 'Custom Links',
     'status' => true,
-    'id' => 'links-menu-663bcf6d4b7b9',
+    'id' => 'links-menu-663bdf0f26445',
     'module_id' => 72,
     'classes' => 
     array (
@@ -151,37 +151,6 @@ a{justify-content:flex-start;width:100%}div.links-menu-72 .count-badge{display:n
           0 => 'menu-item',
           1 => 'links-menu-item',
           2 => 'links-menu-item-4',
-          'multi-level' => false,
-          'dropdown' => false,
-          'drop-menu' => false,
-        ),
-        'items' => 
-        array (
-        ),
-      ),
-      5 => 
-      array (
-        'title' => 'Custom Links',
-        'link' => 
-        array (
-          'type' => '',
-          'id' => '5',
-          'href' => '',
-          'name' => '',
-          'total' => NULL,
-          'attrs' => 
-          array (
-          ),
-          'classes' => 
-          array (
-          ),
-        ),
-        'label' => '',
-        'classes' => 
-        array (
-          0 => 'menu-item',
-          1 => 'links-menu-item',
-          2 => 'links-menu-item-5',
           'multi-level' => false,
           'dropdown' => false,
           'drop-menu' => false,

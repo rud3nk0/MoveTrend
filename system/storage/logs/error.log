@@ -51,3 +51,4 @@
 2024-01-21 13:37:20 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\E-Comerce-Sneackers\system\library\db\mysqli.php on line 53
 2024-04-01 20:18:16 - PHP Unknown:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in C:\OSPanel\domains\E-Comerce-Sneackers\system\library\db\mysqli.php on line 53
 2024-04-01 20:18:16 - PHP Unknown:  Automatic conversion of false to array is deprecated in C:\OSPanel\domains\E-Comerce-Sneackers\system\storage\modification\catalog\controller\startup\startup.php on line 121
+2024-05-04 22:21:02 - PHP Notice:  Undefined index: products in C:\OSPanel\domains\MoveTrend\catalog\controller\extension\module\proscroller.php on line 164

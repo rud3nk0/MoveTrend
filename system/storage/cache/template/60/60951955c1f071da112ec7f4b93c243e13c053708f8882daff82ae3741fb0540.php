@@ -237,6 +237,6 @@ class __TwigTemplate_ccd97b5a54cb5735bfd9f104e94941e4bf4362f67089b330d50bacf01d9
 
     public function getSourceContext()
     {
-        return new Source("", "journal3/template/journal3/headers/desktop/classic.twig", "C:\\OSPanel\\domains\\E-Comerce-Sneackers\\catalog\\view\\theme\\journal3\\template\\journal3\\headers\\desktop\\classic.twig");
+        return new Source("", "journal3/template/journal3/headers/desktop/classic.twig", "C:\\OSPanel\\domains\\MoveTrend\\catalog\\view\\theme\\journal3\\template\\journal3\\headers\\desktop\\classic.twig");
     }
 }

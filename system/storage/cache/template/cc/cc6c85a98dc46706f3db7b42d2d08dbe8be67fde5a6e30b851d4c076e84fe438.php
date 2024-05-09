@@ -185,6 +185,6 @@ class __TwigTemplate_a661b924b9ff0e1d4a66b8ab69a78cb009027ffebcee6bf9ede9d731f3c
 
     public function getSourceContext()
     {
-        return new Source("", "journal3/template/journal3/headers/mobile/header_mobile_1.twig", "C:\\OSPanel\\domains\\E-Comerce-Sneackers\\catalog\\view\\theme\\journal3\\template\\journal3\\headers\\mobile\\header_mobile_1.twig");
+        return new Source("", "journal3/template/journal3/headers/mobile/header_mobile_1.twig", "C:\\OSPanel\\domains\\MoveTrend\\catalog\\view\\theme\\journal3\\template\\journal3\\headers\\mobile\\header_mobile_1.twig");
     }
 }

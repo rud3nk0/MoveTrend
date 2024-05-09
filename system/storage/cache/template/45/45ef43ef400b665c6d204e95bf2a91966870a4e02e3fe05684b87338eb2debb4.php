@@ -134,6 +134,6 @@ class __TwigTemplate_0da79e3108f7cd535840cac7b0738a27d293bc60a6b26c1833d7c418c63
 
     public function getSourceContext()
     {
-        return new Source("", "journal3/template/journal3/manufacturer_grid.twig", "C:\\OSPanel\\domains\\E-Comerce-Sneackers\\catalog\\view\\theme\\journal3\\template\\journal3\\manufacturer_grid.twig");
+        return new Source("", "journal3/template/journal3/manufacturer_grid.twig", "C:\\OSPanel\\domains\\MoveTrend\\catalog\\view\\theme\\journal3\\template\\journal3\\manufacturer_grid.twig");
     }
 }
